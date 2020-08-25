@@ -67,10 +67,9 @@
 
 <p align='center'><img src=https://i.imgur.com/2dpW6z8.png width='70%'></p>
 
-* **死亡噴寫畫面**
+* **死亡畫面**
 為了增加視覺享受，在自己或其他玩家死亡的時候，會產生大量血跡。
 
-![](https://i.imgur.com/VCOyckc.png)
 <p align='center'><img src=https://i.imgur.com/VCOyckc.png width='70%'></p>
 
 * **玩家屍體**
