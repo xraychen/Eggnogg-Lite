@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gYAlxIdWyFb7XEyC4BPv9RA0WwhCNGg4BHP323Jqo4/VAlEuAVKr2LCI9K8K0RMmGAezpFxHSwLwMWkGUiHAjw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ray\\Desktop\\eggnogg_lite_repo\\server\\gameserver\\gameserver.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ray\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
