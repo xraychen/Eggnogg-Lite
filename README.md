@@ -1,14 +1,4 @@
-<style>
-#doc img {
-display: block;
-margin: auto;
-max-width: 90%
-}
-</style>![](https://i.imgur.com/NwNSD33.png)
-
-
 # 電腦網路導論 期末專題 第十一組
-
 ### 組員
 * B06901089 蔡予謙
 * B06901135 陳宣叡
@@ -22,6 +12,8 @@ max-width: 90%
 原本的作品是單機雙人版遊戲，我們這次挑戰將其改成多人連線遊戲
 
 ![](https://i.imgur.com/hbNc7TU.png)
+<p align='center'><img src=https://i.imgur.com/hbNc7TU.png width='50%'></p>
+
 ### 多人版本簡介
 我們嘗試去模仿原作的核心，也就是攻擊模式的判斷與相對應之動畫，我們將攻擊分為 :
 上攻擊、中間攻擊、下攻擊、移動上攻擊、移動中間攻擊、移動下攻擊等。
